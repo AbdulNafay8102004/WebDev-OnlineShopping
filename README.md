@@ -1,2 +1,2 @@
 # WebDev-OnlineShopping
-This is an web development project for online market . It is an frontend project
+This is an web development project for online market . It is a frontend project
